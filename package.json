@@ -1,0 +1,11 @@
+{
+    "name": "@lumeweb/pokt-rpc-endpoints",
+    "type": "module",
+    "version": "0.1.0",
+    "description": "",
+    "main": "dist/index.js",
+    "author": {
+        "name": "Derrick Hammer",
+        "email": "contact@lumeweb.com"
+    }
+}
